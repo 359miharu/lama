@@ -15,7 +15,7 @@ while (<>){
 
     if (/\\*\**/) {
 	print "Matched: |$`<$&>$'|\n";
-	#1(fred) 2(/a/) 3(/\\*\**/)
+	#解答…1(fred) 2(/a/) 3(/\\*\**/)
 	# If you need these for testing patterns with
 	# memories, uncomment them as well
 	# print "    And memory one got <$1>\n";
