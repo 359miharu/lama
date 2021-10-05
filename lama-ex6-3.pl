@@ -12,3 +12,4 @@ chomp @list;
 
 print "1234567890" x (($width+9)/10),"\n";
 printf "%${width}s\n",$_ for(@list)
+#say"aaaaaaaa";
